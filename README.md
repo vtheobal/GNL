@@ -82,3 +82,12 @@ fd = open(argv[1], O_RDONLY);
  |  1| Строка прочитана |
  |  0| EOF (конец файла) |
  |  -1| Произошла ошибка |
+
+ ## Ручные тесты
+
+ Если у вас возникнет желание протестировать мою функцию, то положите свои тестовые файлы в папку "tests/files/" и запустите программу как показанно ниже
+ ```bash
+gcc tests/main.c -Wall -Wextra -Werror -D BUFFER_SIZE=32 get_next_line.c get_next_line_utils.c
+
+./a.out tests/files/ваш_тестовый_файл
+```
