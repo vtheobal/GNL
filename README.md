@@ -1,4 +1,4 @@
-# Get Next Line (GNL)  :tractor:
+# :lotus_position_man:  Get Next Line (GNL)  :lotus_position_man:
 
 
 Цель этого проекта — написать функцию, которая возвращает строку, заканчивающуюся символом новой строки, считанную из дескриптора файла.
