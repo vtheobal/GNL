@@ -23,7 +23,7 @@ gcc tests/main.c -Wall -Wextra -Werror -D BUFFER_SIZE=32 get_next_line.c get_nex
 
 ./a.out tests/files/test01_with_lines
 ```
-*P.s. В папке "tests/files/" есть ещё файлы для тестестирования, в том числе и файл на 1600+ строк*
+*P.s. В папке "tests/files/" есть ещё файлы для тестирования, в том числе и файл на 1600+ строк*
 
 
 **GNL с текстом из терминала (stdin)**
