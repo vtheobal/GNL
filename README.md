@@ -1,4 +1,6 @@
-# :lotus_position_man:  Get Next Line (GNL)  :lotus_position_man:
+<h1 align="center">
+	:lotus_position_man: Get Next Line (GNL)
+</h1>
 
 
 Цель этого проекта — написать функцию, которая возвращает строку, заканчивающуюся символом новой строки, считанную из дескриптора файла.
